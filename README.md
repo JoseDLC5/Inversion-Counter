@@ -1,2 +1,3 @@
 # Inversion-Counter
-Finds the number of inversions in a given array.
+To be run from the command line with the given makefile.
+Usage: ./inversioncounter
